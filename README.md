@@ -2,7 +2,7 @@
 
 Simple Guessing Number game built using HTML,CSS AND JAVASCRIPT.
 
-[https://dbm9l.csb.app/](Go to Live Project)
+[Click to see Live Project](https://dbm9l.csb.app/)
 
 
 
